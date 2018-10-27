@@ -80,11 +80,7 @@ df_petr4.Fechamento = df_petr4.Fechamento.astype('float16')
 df_petr4_clean = pd.DataFrame(columns=['Ano','Fechamento'])
 
 # for serve para get fechamento do ano
-<<<<<<< HEAD
 for ano in range(year-9, year+1): 
-=======
-for ano in range(year-10, year+1): 
->>>>>>> 2104ffa5bd162061d0fe84ce8d2c0b0858bfe846
     #print(ano)
     df_petr4_year = df_petr4[(df_petr4['Ano']==ano)]
     

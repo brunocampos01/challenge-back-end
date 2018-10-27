@@ -72,11 +72,7 @@ df_selic['Taxa SELIC'] = df_selic['Taxa SELIC'].astype('float16')
 df_selic_clean = pd.DataFrame(columns=['Ano','Taxa SELIC'])
 
 # for serve para get fechamento do ano
-<<<<<<< HEAD
 for ano in range(year-9, year+1): 
-=======
-for ano in range(year-10, year+1): 
->>>>>>> 2104ffa5bd162061d0fe84ce8d2c0b0858bfe846
     #print(ano)
     df_selic_year = df_selic[(df_selic['Ano']==ano)]
     
