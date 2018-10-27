@@ -18,7 +18,7 @@ https://www.bcb.gov.br/pec/copom/port/taxaselic.asp e tratá-las;
 - Utilizar a biblioteca pandas do Python
 
 # Quickstart
-Para visualizar os códigos e análises, abra o arquivo [desafio_AAWZ.ipynb](https://github.com/brunocampos01/challenge-aawz/blob/master/desafio_AAWZ.ipynb) 
+Para visualizar os códigos e análises, abra o arquivo [desafio_AAWZ.ipynb](https://github.com/brunocampos01/challenge-aawz/blob/master/challenge_aawz.ipynb) 
 
 # Pre Requirements:
 - Python 3.6 ou superior 
