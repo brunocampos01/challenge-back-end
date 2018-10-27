@@ -1,0 +1,53 @@
+# Cached builds
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+*.odt#
+.ipynb_checkpoints/
+.ropeproject/
+.cache/
+.coverage
+
+# Build directories
+docs/_build/
+build/
+dist/
+venv/
+<<<<<<< HEAD
+
+
+# directories competitions
+kaggle/
+hackerank/
+codenation/
+revelo/
+
+
+# directories jobs
+aawz/
+indicium/
+nubank/
+
+=======
+kaggle/
+
+# Python-boilerplate auto generated files
+src/ejudge_server/__meta__.py
+
+# IDEs
+.idea/
+>>>>>>> 2104ffa5bd162061d0fe84ce8d2c0b0858bfe846
+
+# Testing and temporary files
+.tox/
+Desafio Estágio Data Engineering.pdf
+Desafio Back-End.pdf
+etl_SELIC.ipynb
+etl_PETR4.ipynb
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2104ffa5bd162061d0fe84ce8d2c0b0858bfe846
