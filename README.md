@@ -27,7 +27,7 @@ Para visualizar os códigos e análises, abra o arquivo [desafio_AAWZ.ipynb](htt
 
 # Running
 1. Abra o terminal e clone o repositório: <br/>
-`git clone https://github.com/brunocampos01/challenge_aawz/`<br/>
+`git clone https://github.com/brunocampos01/challenge-aawz`<br/>
 2. Execute o script:<br/>
 `python3 desafio_AAWZ.py`
 ---
