@@ -57,9 +57,6 @@ plt.show()
 tr4_grafico = plt.plot(x_petr4, y_petr4, color='blue', label='PETR4')
 selic_grafico = plt.plot(x_selic, y_selic, color='green', label='Taxa SELIC')
 
-plt.plot(x_petr4, y_petr4, color='blue', label='PETR4')
-plt.plot(x_selic, y_selic, color='green', label='Taxa SELIC')
-
 plt.grid()
 plt.xlabel('Tempo')
 plt.ylabel('Valor')
