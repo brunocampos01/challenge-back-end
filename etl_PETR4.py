@@ -92,7 +92,7 @@ for ano in range(year-9, year+1):
     dados = pd.DataFrame([[ano, fechamento_ano]], columns=['Ano', 'Fechamento'])    
     df_petr4_clean = df_petr4_clean.append(dados)
 
-print(df_petr4.info())
+print(df_petr4_clean.info())
 
 # Salvamento do dataframe no sqlite
 engine = create_engine('sqlite:///desafio_AAWZ.db')
