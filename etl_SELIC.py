@@ -84,7 +84,7 @@ for ano in range(year-9, year+1):
     dados = pd.DataFrame([[ano, taxa_ano]], columns=['Ano', 'Taxa SELIC'])    
     df_selic_clean = df_selic_clean.append(dados)
 
-print(df_selic.info())
+print(df_selic_year.info())
 
 # Salvamento do dataframe no sqlite
 engine = create_engine('sqlite:///desafio_AAWZ.db')
