@@ -23,7 +23,10 @@ Para visualizar os códigos e análises, abra o arquivo [desafio_AAWZ.ipynb](htt
 # Pre Requirements:
 - Python 3.6 ou superior 
 - Git instalado no computador que irá executar
-- Bibliotecas:`pip install -r requirements.txt`
+- pip:<br/>
+`sudo apt-get install python-pip`
+- Bibliotecas:<br/>
+`pip install -r requirements.txt`
 
 # Running
 1. Abra o terminal e clone o repositório: <br/>
