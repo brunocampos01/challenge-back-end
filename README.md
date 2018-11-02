@@ -22,8 +22,8 @@ Para visualizar os códigos e análises, abra o arquivo [desafio_AAWZ.ipynb](htt
 
 # Pre Requirements:
 - Python 3.6 ou superior 
-- Bibliotecas: Numpy, Pandas, matplotlib, sqlite3, sqlalchemy, bs4, requests, ipython
 - Git instalado no computador que irá executar
+- Bibliotecas:`pip install -r requirements.txt`
 
 # Running
 1. Abra o terminal e clone o repositório: <br/>
