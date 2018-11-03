@@ -22,7 +22,7 @@ Para visualizar os códigos e análises, abra o arquivo [desafio_AAWZ.ipynb](htt
 
 # Pre Requirements:
 - Python 3.7 ou superior:<br/>
-https://www.python.org/downloads/
+`sudo apt-get install python3.7`
 - Git:<br/>
 `sudo apt-get install git`
 - pip:<br/>
