@@ -20,7 +20,7 @@ setup(
     author='bruno_campos',
     author_email='brunocampos01@gmail.com',
     url="https://github.com/brunocampos01",
-    description='Default analysis to data scince.',
+    description='Desafio para vaga de data engineer -AAWZ',
     long_description=long_description,
     license='MIT',
     packages=find_packages(),
@@ -37,6 +37,6 @@ setup(
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
         'Programming Language :: Python :: 3.7',
-        'Topic :: System :: Data Scince',
+        'Topic :: System :: Data Science',
     ],
 )
