@@ -16,32 +16,11 @@ docs/_build/
 build/
 dist/
 venv/
-env/
+src.egg-info/
 
-
-# directories competitions
-kaggle/
-hackerank/
-codenation/
-revelo/
-
-
-# directories jobs
-aawz/
-indicium/
-nubank/
-
-
-# Python-boilerplate auto generated files
-src/ejudge_server/__meta__.py
 
 # IDEs
 .idea/
 
 # Testing and temporary files
 .tox/
-Desafio Estágio Data Engineering.pdf
-Desafio Back-End.pdf
-etl_SELIC.ipynb
-etl_PETR4.ipynb
-
