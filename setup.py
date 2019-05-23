@@ -1,14 +1,16 @@
 # Create packages that redistribute.
 
-from setuptools import find_packages, setup
 from io import open
 from os import path
+
+from setuptools import find_packages, setup
 
 
 here = path.abspath(path.dirname(__file__))
 
 # Get the long description from the README file
-with open(path.join(here, '/home/campos/projetos/data_science/learning-data-science/README.md'), encoding='utf-8') as f:
+with open(path.join(here, '~/projetos/data_science/learning-data-science/README.md'),
+          encoding='utf-8') as f:
     long_description = f.read()
 
 with open(path.join(here, 'requirements.txt'), encoding='utf-8') as f:
