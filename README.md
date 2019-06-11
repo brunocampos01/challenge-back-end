@@ -20,7 +20,7 @@ https://www.bcb.gov.br/pec/copom/port/taxaselic.asp e tratá-las;
 # Quickstart
 Para visualizar os códigos e análises, abra o arquivo [desafio_AAWZ.ipynb](https://github.com/brunocampos01/challenge-aawz/blob/master/notebooks/challenge_aawz.ipynb) 
 
-# Pre Requirements:
+# Requirements
 - Python 3.7 ou superior:<br/>
 `sudo apt-get install python3.7`
 - Git:<br/>
