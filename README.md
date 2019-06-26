@@ -1,4 +1,4 @@
-# DESAFIO DEV BACK-END 
+# DESAFIO DEV BACK-END
 
 # About
 
@@ -8,7 +8,7 @@ Petrobrás (PETR4) com as variações da taxa SELIC para os últimos 10 anos.
 
 ### Objetivo
 Fazer um programa em python para:
-- Extrair as informações dos sites: https://www.infomoney.com.br/petrobras-petr4/cotacoes e 
+- Extrair as informações dos sites: https://www.infomoney.com.br/petrobras-petr4/cotacoes e
 https://www.bcb.gov.br/pec/copom/port/taxaselic.asp e tratá-las;
 - Armazenar as informações tratadas no SQLite;
   - Utilizar, de preferência, ORM (object relational mapping)
@@ -18,7 +18,7 @@ https://www.bcb.gov.br/pec/copom/port/taxaselic.asp e tratá-las;
 - Utilizar a biblioteca pandas do Python
 
 # Quickstart
-Para visualizar os códigos e análises, abra o arquivo [desafio_AAWZ.ipynb](https://github.com/brunocampos01/challenge-aawz/blob/master/notebooks/challenge_aawz.ipynb) 
+Para visualizar os códigos e análises, abra o arquivo [desafio_AAWZ.ipynb](https://github.com/brunocampos01/challenge-aawz/blob/master/notebooks/challenge_aawz.ipynb)
 
 # Pre Requirements:
 - Python 3.7 ou superior
