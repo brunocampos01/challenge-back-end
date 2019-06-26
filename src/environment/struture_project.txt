@@ -1,0 +1,28 @@
+.
+├── data
+│   └── desafio_AAWZ.db
+├── LICENSE
+├── notebooks
+│   └── challenge_aawz.ipynb
+├── README.md
+├── requirements.txt
+└── src
+    ├── challenge_aawz.py
+    ├── environment
+    │   ├── config_environment.txt
+    │   ├── create_requirements.sh
+    │   ├── create_virtual_env.sh
+    │   ├── __init__.py
+    │   ├── makefile
+    │   ├── prepare_env.py
+    │   ├── README.md
+    │   ├── show_config_environment.sh
+    │   ├── show_struture_project.sh
+    │   ├── struture_project.txt
+    │   ├── test_environment.py
+    │   └── virtualenv_requirements.txt
+    ├── etl_PETR4.py
+    ├── etl_SELIC.py
+    └── __init__.py
+
+4 directories, 21 files

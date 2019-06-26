@@ -21,20 +21,38 @@ https://www.bcb.gov.br/pec/copom/port/taxaselic.asp e tratá-las;
 Para visualizar os códigos e análises, abra o arquivo [desafio_AAWZ.ipynb](https://github.com/brunocampos01/challenge-aawz/blob/master/notebooks/challenge_aawz.ipynb) 
 
 # Pre Requirements:
-- Python 3.7 ou superior:<br/>
-`sudo apt-get install python3.7`
-- Git:<br/>
-`sudo apt-get install git`
-- pip:<br/>
-`sudo apt-get install python-pip`
-- Bibliotecas:<br/>
-`pip install -r requirements.txt`
+- Python 3.7 ou superior
+```
+sudo apt-get install python3.7
+```
+
+- Git
+```bash
+sudo apt-get install git
+```
+
+- pip
+```bash
+sudo apt-get install python-pip
+```
+
+- Bibliotecas
+```bash
+pip install -r requirements.txt
+```
 
 # Running
 1. Abra o terminal e clone o repositório: <br/>
-`git clone https://github.com/brunocampos01/challenge-aawz`<br/>
-`cd challenge-aawz`
+```
+git clone https://github.com/brunocampos01/challenge-aawz
+cd challenge-aawz
+```
+
 2. Execute o script:<br/>
-`ipython challenge_aawz.py`
+
+```
+ipython challenge_aawz.py
+```
+
 ---
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Bruno A. R. M. Campos</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
