@@ -5,24 +5,28 @@
 ├── notebooks
 │   └── challenge_aawz.ipynb
 ├── README.md
-├── requirements.txt
 └── src
     ├── challenge_aawz.py
     ├── environment
     │   ├── config_environment.txt
+    │   ├── container
+    │   │   └── Dockerfile
     │   ├── create_requirements.sh
     │   ├── create_virtual_env.sh
     │   ├── __init__.py
+    │   ├── jupyter_notebook_config.py
     │   ├── makefile
     │   ├── prepare_env.py
     │   ├── README.md
+    │   ├── requirements.txt
     │   ├── show_config_environment.sh
     │   ├── show_struture_project.sh
     │   ├── struture_project.txt
     │   ├── test_environment.py
+    │   ├── venv
     │   └── virtualenv_requirements.txt
     ├── etl_PETR4.py
     ├── etl_SELIC.py
     └── __init__.py
 
-4 directories, 21 files
+6 directories, 23 files
