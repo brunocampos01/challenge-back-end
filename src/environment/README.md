@@ -66,4 +66,5 @@ pip3 install -r requirements.txt            # libs necessary in notebooks
 name_project=$(basename "$(pwd)")
 echo $name_project
 sudo docker build --no-cache -t $name_project -f src/environment/container/Dockerfile .
+sudo docker run -it -p 8888:8888 $name_project
 ```
