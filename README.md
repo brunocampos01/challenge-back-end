@@ -1,7 +1,5 @@
 # DESAFIO DEV BACK-END
 
-# About
-
 ### Título
 Desenvolver uma análise quantitativa e gráfica relacionando o aumento das ações da
 Petrobrás (PETR4) com as variações da taxa SELIC para os últimos 10 anos.
@@ -17,10 +15,10 @@ https://www.bcb.gov.br/pec/copom/port/taxaselic.asp e tratá-las;
 ### Restrições
 - Utilizar a biblioteca pandas do Python
 
-# Quickstart
+## Quickstart
 Para visualizar os códigos e análises, abra o arquivo [desafio_AAWZ.ipynb](https://github.com/brunocampos01/challenge-aawz/blob/master/notebooks/challenge_aawz.ipynb)
 
-# Pre Requirements:
+## Pre Requirements
 - Python 3.7 ou superior
 ```
 sudo apt-get install python3.7
@@ -36,23 +34,26 @@ sudo apt-get install git
 sudo apt-get install python-pip
 ```
 
-- Bibliotecas
-```bash
-pip install -r requirements.txt
-```
+## Running
+1. Abra o terminal e clone o repositório
 
-# Running
-1. Abra o terminal e clone o repositório: <br/>
-```
+```bash
 git clone https://github.com/brunocampos01/challenge-aawz
 cd challenge-aawz
 ```
+2. Escolha em qual ambiente quer executa
+ - [local](src/environment/README.md)
+ - [virtual environment](src/environment/README.md)
+ - [container](src/environment/README.md)
 
-2. Execute o script:<br/>
+2. Execute o script
 
-```
-ipython challenge_aawz.py
+```bash
+jupyter-notebook notebooks/challenge_aawz.ipynb
 ```
 
 ---
+
+#### Copyright
+
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Bruno A. R. M. Campos</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
