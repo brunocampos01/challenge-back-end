@@ -1,4 +1,4 @@
-# DESAFIO DEV BACK-END
+# Challenge Developer Back-end
 
 ### Título
 Desenvolver uma análise quantitativa e gráfica relacionando o aumento das ações da
