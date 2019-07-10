@@ -34,6 +34,11 @@ sudo apt-get install git
 sudo apt-get install python-pip
 ```
 
+- Python Virtual Environment
+```sh
+pip3 install --user virtualenv==16.6.0
+```
+
 ## Running
 1. Abra o terminal e clone o repositório
 
@@ -46,7 +51,7 @@ cd challenge-aawz
  - [virtual environment](src/environment/README.md)
  - [container](src/environment/README.md)
 
-2. Execute o script
+2. Execute o Notebook
 
 ```bash
 jupyter-notebook notebooks/challenge_aawz.ipynb
