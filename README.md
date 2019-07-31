@@ -16,7 +16,7 @@ https://www.bcb.gov.br/pec/copom/port/taxaselic.asp e tratá-las;
 - Utilizar a biblioteca pandas do Python
 
 ## Quickstart
-Para visualizar os códigos e análises, abra o arquivo [desafio_AAWZ.ipynb](https://github.com/brunocampos01/challenge-aawz/blob/master/notebooks/challenge_aawz.ipynb)
+Para visualizar os códigos e análises, abra o arquivo [desafio_back-end.ipynb](https://github.com/brunocampos01/challenge-aawz/blob/master/notebooks/challenge_aawz.ipynb)
 
 ## Pre Requirements
 - Python 3.7 ou superior
@@ -43,8 +43,8 @@ pip3 install --user virtualenv==16.6.0
 1. Abra o terminal e clone o repositório
 
 ```bash
-git clone https://github.com/brunocampos01/challenge-aawz
-cd challenge-aawz
+git clone https://github.com/brunocampos01/challenge-back-end
+cd challenge-back-end
 ```
 2. Escolha em qual ambiente quer executa
  - [local](src/environment/README.md)
