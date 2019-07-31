@@ -54,7 +54,7 @@ cd challenge-back-end
 2. Execute o Notebook
 
 ```bash
-jupyter-notebook notebooks/challenge_aawz.ipynb
+jupyter-notebook notebooks/challenge_back-end.ipynb
 ```
 
 ---
