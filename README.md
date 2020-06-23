@@ -1,10 +1,8 @@
 # Challenge Developer Back-end
-
-### Título
 Desenvolver uma análise quantitativa e gráfica relacionando o aumento das ações da
 Petrobrás (PETR4) com as variações da taxa SELIC para os últimos 10 anos.
 
-### Objetivo
+### Goals
 Fazer um programa em python para:
 - Extrair as informações dos sites: https://www.infomoney.com.br/petrobras-petr4/cotacoes e
 https://www.bcb.gov.br/pec/copom/port/taxaselic.asp e tratá-las;
@@ -12,7 +10,7 @@ https://www.bcb.gov.br/pec/copom/port/taxaselic.asp e tratá-las;
   - Utilizar, de preferência, ORM (object relational mapping)
 - Ler as informações do banco e apresentar em formato gráfico.
 
-### Restrições
+### Restrictions
 - Utilizar a biblioteca pandas do Python
 
 ## Quickstart
@@ -51,7 +49,7 @@ cd challenge-back-end
  - [virtual environment](src/environment/README.md)
  - [container](src/environment/README.md)
 
-2. Execute o Notebook
+2. Execute Notebook
 
 ```bash
 jupyter-notebook notebooks/challenge_back-end.ipynb
