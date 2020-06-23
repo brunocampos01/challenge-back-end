@@ -4,8 +4,9 @@ Petrobrás (PETR4) com as variações da taxa SELIC para os últimos 10 anos.
 
 ### Goals
 Fazer um programa em python para:
-- Extrair as informações dos sites: https://www.infomoney.com.br/petrobras-petr4/cotacoes e
-https://www.bcb.gov.br/pec/copom/port/taxaselic.asp e tratá-las;
+- Extrair as informações dos sites e e tratá-las: 
+  - https://www.infomoney.com.br/petrobras-petr4/cotacoes
+  - https://www.bcb.gov.br/pec/copom/port/taxaselic.asp
 - Armazenar as informações tratadas no SQLite;
   - Utilizar, de preferência, ORM (object relational mapping)
 - Ler as informações do banco e apresentar em formato gráfico.
